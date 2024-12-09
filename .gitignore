@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Build artifacts created by Truffle
+build/
+
+# Local environment variables and secrets
+.env
+
+# Mac OS files
+.DS_Store
+
+# Logs
+npm-debug.log
+yarn-error.log
+*.log
+
