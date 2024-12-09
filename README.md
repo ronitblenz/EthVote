@@ -8,9 +8,9 @@ Electoral fraud, sometimes referred to as Fake Votes, is illegal interference wi
 
 Our Solution is to build a Decentralised application on Blockchain using Ethereum, so that the voting system becomes transparent and unbiased. One of the key pillars of any healthy democratic system is the presence of independent and impartial elections in a nation. This is possible by Blockchain where we can keep the vote counts and other electoral data protected. The application would consist of a list of eligible candidates for election and we, as a voter, using our unique account having a unique private key, can cast a single vote to the candidate. This would require some ether, but the "Fake Votes" problem can be eliminated.
 
-#### Youtube Link - https://www.youtube.com/watch?v=UlVT_Aiz4kk&feature=youtu.be
+<!-- #### Youtube Link - https://www.youtube.com/watch?v=UlVT_Aiz4kk&feature=youtu.be
 
-#### Presentation Link - https://docs.google.com/presentation/d/1OBUWAH6HTC2MWPyb7WhUfk7ApNunuYISmPe7oKrqR7o/edit#slide=id.p
+#### Presentation Link - https://docs.google.com/presentation/d/1OBUWAH6HTC2MWPyb7WhUfk7ApNunuYISmPe7oKrqR7o/edit#slide=id.p -->
 
 ## Tools Required:
 
@@ -47,7 +47,7 @@ Migration of the election smart contract is necessary each time Ganache is resta
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
 
-## Screenshots:
+<!-- ## Screenshots:
 
 #### Initial Page showing the candidates for elections:
 
@@ -85,4 +85,4 @@ Visit this URL in your browser: http://localhost:3000
 
 #### Server running in the background:
 
-![Screenshot from 2019-03-28 20-36-51](https://user-images.githubusercontent.com/34116562/55181759-44189100-51b2-11e9-92c6-8fd5c71fcd9c.png)
+![Screenshot from 2019-03-28 20-36-51](https://user-images.githubusercontent.com/34116562/55181759-44189100-51b2-11e9-92c6-8fd5c71fcd9c.png) -->
