@@ -86,3 +86,10 @@ Visit this URL in your browser: http://localhost:3000
 #### Server running in the background:
 
 ![Screenshot from 2019-03-28 20-36-51](https://user-images.githubusercontent.com/34116562/55181759-44189100-51b2-11e9-92c6-8fd5c71fcd9c.png) -->
+
+
+Steps to run this project:
+
+
+
+bash setup.sh
